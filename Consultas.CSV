@@ -1,0 +1,6 @@
+id;id_medico;id_paciente;Motivo;Observações;Tipo;Diagnóstico
+1;2;4;Olhos lacrimejando e ardendo com a exposição de luz;O paciente acordou com estes sintomas;Consulta de Urgência;Conjuntivite Aguda
+2;5;3;Dor de cabeça pulsante na região esquerda da cabeça;O paciente diz ter começado a 3 semanas;Consulta Ambulatória;Enxaqueca
+3;3;1;Retirar sangue;O paciente havia feito a mesma consulta a uma semana atras, reclamando de sede e perda de peso;Consulta de retorno;Hiperglicemia
+4;2;2;Visão embaçada súbita no olho direito;O paciente já havia notado um leve incomodo no olho a 3 dias atrás;Consulta de Urgência;Suspeita de inflamação ocular
+5;1;5;Tratamento para escoliose;O paciente possui escoliose com uma curvatura de 18°;Consulta de Rotina;Escoliose idiopática leve
