@@ -36,11 +36,9 @@
 | Consulta | diagnostico | varchar | | Diagnóstico final da consulta |
 
 <div align="left">
-  <details>
   <br><br/>
   <img src="mer_der.png" alt="image" width="600"
   </a>
-</details>
 
 <p align="left"><a href="Pacientes.CSV">Pacientes.CSV</a></p>
 <p align="left"><a href="Medicos.CSV">Médicos.CSV</a></p>
