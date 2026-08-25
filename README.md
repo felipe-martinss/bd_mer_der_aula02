@@ -2,7 +2,7 @@
 
 | Entidade | Atributo | Tipo | Tamanho | Descrição |
 | :--- | :--- | :--- | :--- | :--- |
-| Paciente | id | int | 11 | Chave primária |
+| Paciente | id | int |  | Chave primária |
 | Paciente | cpf | varchar | 11 | CPF do paciente |
 | Paciente | idade | int | 3 | idade do paciente |
 | Paciente | nome | varchar | 100 | nome do paciente |
@@ -26,9 +26,9 @@
 | Médico | estado | varchar | 2 | estado em que o médico nasceu |
 | Médico | especialidade | varchar | 100 | especialidade do médico |
 | Médico | email | varchar | 100 | email profissional do médico |
-| Consulta | id | int | 11 | Chave primária |
-| Consulta | id_medico | int | 11 | Chave estrangeira |
-| Consulta | id_paciente | int | 11 | Chave estrangeira |
+| Consulta | id | int |  | Chave primária |
+| Consulta | id_medico | int |  | Chave estrangeira |
+| Consulta | id_paciente | int |  | Chave estrangeira |
 | Consulta | motivo | varchar | | Motivo da consulta |
 | Consulta | observacoes | varchar | | Obersvações da consulta |
 | Consulta | horario | date | | Horário do atendimento |
