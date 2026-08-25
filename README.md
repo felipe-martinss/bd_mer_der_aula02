@@ -37,9 +37,8 @@
 
 <div align="left">
   <details>
-    <summary>Modelo Lógico</summary>
   <br><br/>
-  <img src="Modelo Lógico.png" alt="image" width="600"
+  <img src="mer_der.png" alt="image" width="600"
   </a>
 </details>
 
