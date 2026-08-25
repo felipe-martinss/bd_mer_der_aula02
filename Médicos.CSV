@@ -1,6 +1,6 @@
-id,Nome,Idade,Sexo,Pa�s,Cidade,Bairro,Estado,Alergias,Email,CPF,CRM,Especialidade
-1,Fernando Torres,65,M,Brasil,S�o Paulo,Pinheiros,S�o Paulo,,fernando.torres@gmail.com,394.851.028-26,205491-SP,Ortopedista
+id,Nome,Idade,Sexo,País,Cidade,Bairro,Estado,Alergias,Email,CPF,CRM,Especialidade
+1,Fernando Torres,65,M,Brasil,São Paulo,Pinheiros,São Paulo,,fernando.torres@gmail.com,394.851.028-26,205491-SP,Ortopedista
 2,Joaquim dos reis,34,M,Brasil,Recife,Boa Viagem,Pernambuco,Amendoim,drjoaquim_reis@gmail.com,615.394.024-81,871403-RJ,Oftalmologista
-3,Heloisa Montante,47,F,Brasil,Fortaleza,Meireles,Cear�,Corante,heloisamont@gmail.com,284.195.033-02,63982-MG,Endocrionologia
+3,Heloisa Montante,47,F,Brasil,Fortaleza,Meireles,Ceará,Corante,heloisamont@gmail.com,284.195.033-02,63982-MG,Endocrionologia
 4,Heitor Carvalho,27,M,Brasil,Porto Alegre,Moinhos do Vento,Rio Grande do Sul,Frutos do mar,heitor.c@gmail.com,519.284.730-10,41057-RS,Otorrinolaringologia
-5,Vit�ria Assis,29,F,Brasil,Rio Branco,Asa Sul,Acre,Mofo,drvitoria_ass@gmail.com,841.952.062-87,35921-BA,Neurologia
+5,Vitória Assis,29,F,Brasil,Rio Branco,Asa Sul,Acre,Mofo,drvitoria_ass@gmail.com,841.952.062-87,35921-BA,Neurologia
