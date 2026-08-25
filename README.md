@@ -36,10 +36,6 @@
 | Consulta | diagnostico | varchar | | Diagnóstico final da consulta |
 
 <div align="left">
-    <details>
-      <summary>Modelo Conceitual</summary>
-      <img src="Modelo Conceitual.png" alt="image" width="600">
-            </details>
   <details>
     <summary>Modelo Lógico</summary>
   <br><br/>
@@ -47,6 +43,6 @@
   </a>
 </details>
 
-<p align="left"><a href="Pacientes.csv">Pacientes.csv</a></p>
-<p align="left"><a href="Medicos.csv">Médicos.csv</a></p>
-<p align="left"><a href="Consultas.csv">Consultas.csv</a></p>
+<p align="left"><a href="Pacientes.csv">Pacientes.CSV</a></p>
+<p align="left"><a href="Medicos.csv">Médicos.CSV</a></p>
+<p align="left"><a href="Consultas.csv">Consultas.CSV</a></p>
