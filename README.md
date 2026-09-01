@@ -10,7 +10,7 @@
 | Paciente | pais | varchar | 50 | país em que o paicente nasceu |
 | Paciente | cidade | varchar | 50 | ciade em que o paciente nasceu |
 | Paciente | bairro | varchar | 50 | bairro em que o paciente nasceu |
-| Paciente | estado | varchar | 2 | estado em que o paciente nasceu |
+| Paciente | estado | varchar | 50 | estado em que o paciente nasceu |
 | Paciente | alergias | varchar | 100 | alergias do paciente |
 | Paciente | email | varchar | 100 | email pessoal do paciente |
 | Paciente | telefone | varchar | 15 | telefone pessoal do paciente |
