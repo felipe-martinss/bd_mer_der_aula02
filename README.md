@@ -29,11 +29,11 @@
 | Consulta | id | int |  | Chave primária |
 | Consulta | id_medico | int |  | Chave estrangeira |
 | Consulta | id_paciente | int |  | Chave estrangeira |
-| Consulta | motivo | varchar | | Motivo da consulta |
-| Consulta | observacoes | varchar | | Obersvações da consulta |
+| Consulta | motivo | varchar | 300 | Motivo da consulta |
+| Consulta | observacoes | varchar | 400 | Obersvações da consulta |
 | Consulta | horario | date | | Horário do atendimento |
-| Consulta | tipo_consulta | varchar |  | O tipo da consulta |
-| Consulta | diagnostico | varchar | | Diagnóstico final da consulta |
+| Consulta | tipo_consulta | varchar | 50 | O tipo da consulta |
+| Consulta | diagnostico | varchar | 400 | Diagnóstico final da consulta |
 
 <div align="left">
   <br><br/>
