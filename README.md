@@ -32,7 +32,7 @@
 | Consulta | motivo | varchar | | Motivo da consulta |
 | Consulta | observacoes | varchar | | Obersvações da consulta |
 | Consulta | horario | date | | Horário do atendimento |
-| Consulta | tipo_consulta | varchar | 50 | O tipo da consulta |
+| Consulta | tipo_consulta | varchar |  | O tipo da consulta |
 | Consulta | diagnostico | varchar | | Diagnóstico final da consulta |
 
 <div align="left">
